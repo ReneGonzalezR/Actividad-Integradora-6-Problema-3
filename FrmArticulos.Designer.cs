@@ -61,7 +61,7 @@ namespace Actividad_Integradora_6_Problema_3
             this.txtId.MaxLength = 50;
             this.txtId.Name = "txtId";
             this.txtId.Size = new System.Drawing.Size(250, 47);
-            this.txtId.TabIndex = 5;
+            this.txtId.TabIndex = 1;
             // 
             // txtStock
             // 
@@ -69,7 +69,7 @@ namespace Actividad_Integradora_6_Problema_3
             this.txtStock.MaxLength = 50;
             this.txtStock.Name = "txtStock";
             this.txtStock.Size = new System.Drawing.Size(250, 47);
-            this.txtStock.TabIndex = 6;
+            this.txtStock.TabIndex = 4;
             // 
             // txtPrecio
             // 
@@ -77,7 +77,7 @@ namespace Actividad_Integradora_6_Problema_3
             this.txtPrecio.MaxLength = 50;
             this.txtPrecio.Name = "txtPrecio";
             this.txtPrecio.Size = new System.Drawing.Size(250, 47);
-            this.txtPrecio.TabIndex = 7;
+            this.txtPrecio.TabIndex = 3;
             // 
             // txtNombre
             // 
@@ -85,14 +85,14 @@ namespace Actividad_Integradora_6_Problema_3
             this.txtNombre.MaxLength = 50;
             this.txtNombre.Name = "txtNombre";
             this.txtNombre.Size = new System.Drawing.Size(250, 47);
-            this.txtNombre.TabIndex = 8;
+            this.txtNombre.TabIndex = 2;
             // 
             // btnNuevo
             // 
             this.btnNuevo.Location = new System.Drawing.Point(104, 525);
             this.btnNuevo.Name = "btnNuevo";
             this.btnNuevo.Size = new System.Drawing.Size(188, 58);
-            this.btnNuevo.TabIndex = 9;
+            this.btnNuevo.TabIndex = 7;
             this.btnNuevo.Text = "Nuevo";
             this.btnNuevo.UseVisualStyleBackColor = true;
             this.btnNuevo.Click += new System.EventHandler(this.btnNuevo_Click);
@@ -102,7 +102,7 @@ namespace Actividad_Integradora_6_Problema_3
             this.btnGuardar.Location = new System.Drawing.Point(104, 602);
             this.btnGuardar.Name = "btnGuardar";
             this.btnGuardar.Size = new System.Drawing.Size(188, 58);
-            this.btnGuardar.TabIndex = 10;
+            this.btnGuardar.TabIndex = 8;
             this.btnGuardar.Text = "Guardar";
             this.btnGuardar.UseVisualStyleBackColor = true;
             this.btnGuardar.Click += new System.EventHandler(this.btnGuardar_Click);
@@ -112,7 +112,7 @@ namespace Actividad_Integradora_6_Problema_3
             this.btnCancelar.Location = new System.Drawing.Point(327, 525);
             this.btnCancelar.Name = "btnCancelar";
             this.btnCancelar.Size = new System.Drawing.Size(188, 58);
-            this.btnCancelar.TabIndex = 11;
+            this.btnCancelar.TabIndex = 9;
             this.btnCancelar.Text = "Cancelar";
             this.btnCancelar.UseVisualStyleBackColor = true;
             this.btnCancelar.Click += new System.EventHandler(this.btnCancelar_Click);
@@ -122,7 +122,7 @@ namespace Actividad_Integradora_6_Problema_3
             this.btnEliminar.Location = new System.Drawing.Point(327, 602);
             this.btnEliminar.Name = "btnEliminar";
             this.btnEliminar.Size = new System.Drawing.Size(188, 58);
-            this.btnEliminar.TabIndex = 12;
+            this.btnEliminar.TabIndex = 10;
             this.btnEliminar.Text = "Eliminar";
             this.btnEliminar.UseVisualStyleBackColor = true;
             this.btnEliminar.Click += new System.EventHandler(this.btnEliminar_Click);
@@ -133,7 +133,7 @@ namespace Actividad_Integradora_6_Problema_3
             this.txtFamilia.MaxLength = 50;
             this.txtFamilia.Name = "txtFamilia";
             this.txtFamilia.Size = new System.Drawing.Size(250, 47);
-            this.txtFamilia.TabIndex = 13;
+            this.txtFamilia.TabIndex = 5;
             // 
             // txtGarantia
             // 
@@ -141,14 +141,14 @@ namespace Actividad_Integradora_6_Problema_3
             this.txtGarantia.MaxLength = 50;
             this.txtGarantia.Name = "txtGarantia";
             this.txtGarantia.Size = new System.Drawing.Size(250, 47);
-            this.txtGarantia.TabIndex = 14;
+            this.txtGarantia.TabIndex = 6;
             // 
             // btnBuscar
             // 
             this.btnBuscar.Location = new System.Drawing.Point(996, 93);
             this.btnBuscar.Name = "btnBuscar";
             this.btnBuscar.Size = new System.Drawing.Size(188, 58);
-            this.btnBuscar.TabIndex = 15;
+            this.btnBuscar.TabIndex = 12;
             this.btnBuscar.Text = "Buscar";
             this.btnBuscar.UseVisualStyleBackColor = true;
             this.btnBuscar.Click += new System.EventHandler(this.btnBuscar_Click);
@@ -159,7 +159,7 @@ namespace Actividad_Integradora_6_Problema_3
             this.txtIdBuscar.MaxLength = 50;
             this.txtIdBuscar.Name = "txtIdBuscar";
             this.txtIdBuscar.Size = new System.Drawing.Size(250, 47);
-            this.txtIdBuscar.TabIndex = 16;
+            this.txtIdBuscar.TabIndex = 11;
             // 
             // label1
             // 
